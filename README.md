@@ -1,6 +1,6 @@
 # 第5回講義ノート
 
-**最終更新日：** 2026年11月5日 13:54
+**最終更新日：** 2026年11月5日 13:57
 
 ---
 
@@ -12,4 +12,4 @@
 * **リポジトリの作成**
 * **Codespacesの設定**
 
-[リポジトリ設定方法]https://github.com/tomoato1590/testEdit/edit/main/README.md
+[README修正]https://github.com/tomoato1590/testEdit/edit/main/README.md
