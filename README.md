@@ -11,6 +11,6 @@
 
 * **リポジトリの作成**
 * **Codespacesの設定**
-* **コミットの仕方**
+* **コミット・pushの仕方**
 
 [README修正]https://github.com/tomoato1590/testEdit/edit/main/README.md
